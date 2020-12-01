@@ -1,0 +1,6 @@
+ThirdParty/blender
+lirs_wct_console/build
+lirs_wct_gui/build
+release
+lirs_wct_console/CMakeLists.txt.user
+lirs_wct_gui/CMakeLists.txt.user
